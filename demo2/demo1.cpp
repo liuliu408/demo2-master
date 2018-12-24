@@ -22,7 +22,7 @@ void on_mouse(int event, int x, int y, int flags, void* img)
 	}
 }
 
-int main()  //liu«Î«Û
+int main()  //liu
 {
 	IplImage *img = cvLoadImage("5.jpg", 1);
 	cvNamedWindow("src", 1);
